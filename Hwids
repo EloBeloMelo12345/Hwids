@@ -1,8 +1,8 @@
 {
     "3F21E563-9030-4D49-81D8-0C72C25777EB": {
-        "length": "lifetime",
+        "length": "50 minutes",
         "startDate": "2024-07-07T00:00:00Z",
-        "endDate": null
+        "endDate": "2024-07-07T00:50:00Z"
     },
     "89B3185D-AA86-4221-A854-7F9987A4CFCF": {
         "length": "30 days",
@@ -13,10 +13,5 @@
         "length": "lifetime",
         "startDate": "2024-07-07T00:00:00Z",
         "endDate": null
-    },
-    "d684e676-c2d2-45d9-a73d-08c700f6d86c": {
-        "length": "50 minutes",
-        "startDate": "2024-07-07T00:00:00Z",
-        "endDate": "2024-07-07T00:50:00Z"
     }
 }

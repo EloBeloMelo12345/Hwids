@@ -1,5 +1,17 @@
 {
-    "3F21E563-9030-4D49-81D8-0C72C25777EB": "lifetime",
-    "89B3185D-AA86-4221-A854-7F9987A4CFCF": "30 days",
-    "B7929D04-A8DF-40C2-B286-A0C0E52D0C71": "lifetime"
+    "3F21E563-9030-4D49-81D8-0C72C25777EB": {
+        "length": "lifetime",
+        "startDate": "2024-07-07T00:00:00Z",  // Data początkowa
+        "endDate": null  // Brak daty końcowej dla licencji lifetime
+    },
+    "89B3185D-AA86-4221-A854-7F9987A4CFCF": {
+        "length": "30 days",
+        "startDate": "2024-07-07T00:00:00Z",  // Data początkowa
+        "endDate": "2024-08-06T00:00:00Z"  // Data końcowa
+    },
+    "B7929D04-A8DF-40C2-B286-A0C0E52D0C71": {
+        "length": "lifetime",
+        "startDate": "2024-07-07T00:00:00Z",  // Data początkowa
+        "endDate": null  // Brak daty końcowej dla licencji lifetime
+    }
 }

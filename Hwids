@@ -15,8 +15,8 @@
         "endDate": null
     },
     "d684e676-c2d2-45d9-a73d-08c700f6d86c": {
-        "length": "1 hour",
+        "length": "10 days",
         "startDate": "2024-07-07T00:00:00Z",
-        "endDate": "2024-07-07T01:00:00Z"
+        "endDate": "2024-07-17T00:00:00Z"
     }
 }

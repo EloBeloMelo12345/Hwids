@@ -1,8 +1,8 @@
 {
     "3F21E563-9030-4D49-81D8-0C72C25777EB": {
-        "length": "7 days",
+        "length": "lifetime",
         "startDate": "2024-07-11T00:00:00Z",
-        "endDate": "2024-07-18T00:00:00Z"
+        "endDate": null
     },
     "89B3185D-AA86-4221-A854-7F9987A4CFCF": {
         "length": "lifetime",
@@ -15,9 +15,9 @@
         "endDate": null
     },
     "d684e676-c2d2-45d9-a73d-08c700f6d86c": {
-        "length": "10 days",
+        "length": "lifetime",
         "startDate": "2024-07-07T00:00:00Z",
-        "endDate": "2024-07-17T00:00:00Z"
+        "endDate": null
     },
     "C07C065A-01E5-46E6-AA70-B8CF9DEE1827": {
         "length": "lifetime",
@@ -25,9 +25,9 @@
         "endDate": null
     },
     "1987fe7a-f2f7-4490-ac64-b9e5a425af92": {
-        "length": "7 days",
+        "length": "lifetime",
         "startDate": "2024-07-07T00:00:00Z",
-        "endDate": "2024-07-14T00:00:00Z"
+        "endDate": null
     },
     "D62A3458-C858-45C1-9D81-A89AEEA7452C": {
         "length": "lifetime",

@@ -24,9 +24,14 @@
         "startDate": "2024-07-07T00:00:00Z",
         "endDate": null
     },
-    "1987fe7a-f2f7-4490-ac64-b9e5a425af91": {
+    "1987fe7a-f2f7-4490-ac64-b9e5a425af92": {
         "length": "7 days",
         "startDate": "2024-07-07T00:00:00Z",
         "endDate": "2024-07-14T00:00:00Z"
+    },
+    "D62A3458-C858-45C1-9D81-A89AEEA7452C": {
+        "length": "lifetime",
+        "startDate": "2024-07-07T00:00:00Z",
+        "endDate": null
     }
 }

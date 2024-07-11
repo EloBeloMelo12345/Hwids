@@ -33,5 +33,10 @@
         "length": "1 day",
         "startDate": "2024-07-11T00:00:00Z",
         "endDate": "2024-07-12T00:00:00Z"
+    },
+    "C1AC4053-C499-482D-BCCE-26E5F0C8A503": {
+        "length": "1 month",
+        "startDate": "2024-07-11T00:00:00Z",
+        "endDate": "2024-08-11T00:00:00Z"
     }
 }

@@ -83,5 +83,10 @@
         "length": "4 days",
         "startDate": "2024-07-16T00:00:00Z",
         "endDate": "2024-07-20T00:00:00Z"
+    },
+    "32b53bc2-ce72-43c8-af65-e0b203aea13f": {
+        "length": "1 day",
+        "startDate": "2024-07-17T00:00:00Z",
+        "endDate": "2024-07-18T00:00:00Z"
     }
 }

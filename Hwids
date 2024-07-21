@@ -88,5 +88,10 @@
         "length": "2 days",
         "startDate": "2024-07-19T00:00:00Z",
         "endDate": "2024-07-21T00:00:00Z"
+    },
+    "75bc9f41-5147-48da-bec3-bafd8270a9ee": {
+        "length": "lifetime",
+        "startDate": "2024-07-21T00:00:00Z",
+        "endDate": null
     }
 }

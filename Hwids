@@ -83,5 +83,10 @@
         "length": "30 days",
         "startDate": "2024-07-13T00:00:00Z",
         "endDate": "2024-08-12T00:00:00Z"
+    },
+    "AF2C957D-D202-4702-9273-4703BF4300A1": {
+        "length": "lifetime",
+        "startDate": "2024-07-22T00:00:00Z",
+        "endDate": null
     }
 }

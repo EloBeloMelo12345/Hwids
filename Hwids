@@ -1,15 +1,16 @@
-{
-    "105226D7-5F87-4777-B1CC-D6633D94BC93": {
+[
+    {
         "length": "lifetime",
         "startDate": "2024-07-11T00:00:00Z",
         "endDate": null,
         "discord": "fullybenio",
         "hwid": "dasdadada"
     },
-    "7a6de2d8-9cc8-4f1e-b87c-af1fca40d19c": {
+    {
         "length": "lifetime",
         "startDate": "2024-07-11T00:00:00Z",
         "endDate": null,
-        "discord": "nekospapuga"
+        "discord": "nekospapuga",
+        "hwid": "newhwidvalue"
     }
-}
+]

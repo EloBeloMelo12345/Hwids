@@ -12,5 +12,12 @@
         "endDate": null,
         "discord": "nekospapuga",
         "hwid": "hh"
+    },
+    {
+        "length": "lifetime",
+        "startDate": "2024-08-15T23:02:12.038047Z",
+        "endDate": null,
+        "discord": "<@1217617092220813333>",
+        "hwid": "1247542399878828174"
     }
 ]

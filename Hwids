@@ -2,51 +2,7 @@
     "105226D7-5F87-4777-B1CC-D6633D94BC93": {
         "length": "lifetime",
         "startDate": "2024-07-11T00:00:00Z",
-        "endDate": null
-    },
-    "B4ED655E-CFBF-4E93-A44F-983D406C2B41": {
-        "length": "lifetime",
-        "startDate": "2024-07-11T00:00:00Z",
-        "endDate": null
-    },
-    "37F2FE4A-CC36-4E4B-A3E4-71185402E92C": {
-        "length": "lifetime",
-        "startDate": "2024-07-11T00:00:00Z",
-        "endDate": null
-    },
-    "61581c9e-8956-43e6-9380-6df974ca23e5": {
-        "length": "lifetime",
-        "startDate": "2024-07-11T00:00:00Z",
-        "endDate": null
-    },
-    "51E5DF26-2589-4EBB-AA05-9C024F1C6E8C": {
-        "length": "lifetime",
-        "startDate": "2024-07-11T00:00:00Z",
-        "endDate": null
-    },
-    "D62A3458-C858-45C1-9D81-A89AEEA7452C": {
-        "length": "lifetime",
-        "startDate": "2024-07-11T00:00:00Z",
-        "endDate": null
-    },
-    "B3AFBCF1-F057-404B-A8E3-08B457BAD9C4": {
-        "length": "lifetime",
-        "startDate": "2024-07-11T00:00:00Z",
-        "endDate": null
-    },
-    "c864ca8a-f181-4087-ba73-8ba08a9d5f19": {
-        "length": "lifetime",
-        "startDate": "2024-07-11T00:00:00Z",
-        "endDate": null
-    },
-    "B0FE2408-4E6D-4680-90F8-A75C990AD6AF": {
-        "length": "lifetime",
-        "startDate": "2024-07-11T00:00:00Z",
-        "endDate": null
-    },
-    "7a6de2d8-9cc8-4f1e-b87c-af1fca40d19c": {
-        "length": "lifetime",
-        "startDate": "2024-07-11T00:00:00Z",
-        "endDate": null
+        "endDate": null,
+        "discord": "fullybenio"
     }
 }

@@ -11,6 +11,13 @@
         "startDate": "2024-07-11T00:00:00Z",
         "endDate": null,
         "discord": "nekospapuga",
-        "hwid": "newhwidvalue"  
+        "hwid": "newhwidvalue"
+    },
+    {
+        "length": "1month",
+        "startDate": "2024-08-22T22:02:00.064527Z",
+        "endDate": null,
+        "discord": "zonedce1243",
+        "hwid": "123"
     }
 ]

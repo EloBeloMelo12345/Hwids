@@ -40,5 +40,12 @@
         "endDate": null,
         "discord": "securityanalyser",
         "hwid": "123"
+    },
+    {
+        "length": "lifetime",
+        "startDate": "2024-08-24T11:15:22.644892Z",
+        "endDate": null,
+        "discord": "kaykay_lenlen",
+        "hwid": "123"
     }
 ]

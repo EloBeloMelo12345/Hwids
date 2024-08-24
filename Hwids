@@ -12,5 +12,12 @@
         "endDate": null,
         "discord": "lucki.jr",
         "hwid": "123"
+    },
+    {
+        "length": "lifetime",
+        "startDate": "2024-08-24T06:10:50.504287Z",
+        "endDate": null,
+        "discord": "<@1132990367973777409>",
+        "hwid": "1234"
     }
 ]

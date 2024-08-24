@@ -26,5 +26,12 @@
         "endDate": null,
         "discord": "zonedce1243",
         "hwid": "1234"
+    },
+    {
+        "length": "lifetime",
+        "startDate": "2024-08-24T11:13:32.705164Z",
+        "endDate": null,
+        "discord": "foruteen",
+        "hwid": "123"
     }
 ]

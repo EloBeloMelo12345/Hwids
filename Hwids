@@ -33,5 +33,12 @@
         "endDate": null,
         "discord": "foruteen",
         "hwid": "123"
+    },
+    {
+        "length": "lifetime",
+        "startDate": "2024-08-24T11:14:01.418427Z",
+        "endDate": null,
+        "discord": "securityanalyser",
+        "hwid": "123"
     }
 ]

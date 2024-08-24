@@ -33,5 +33,12 @@
         "endDate": null,
         "discord": "kaykay_lenlen",
         "hwid": "123"
+    },
+    {
+        "length": "lifetime",
+        "startDate": "2024-08-24T21:16:52.384420Z",
+        "endDate": null,
+        "discord": "fullybenio",
+        "hwid": "111"
     }
 ]

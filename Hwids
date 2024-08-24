@@ -26,5 +26,12 @@
         "endDate": null,
         "discord": "me",
         "hwid": "123"
+    },
+    {
+        "length": "2days",
+        "startDate": "2024-08-24T05:56:44.026399Z",
+        "endDate": null,
+        "discord": "nekospapuga",
+        "hwid": "12222"
     }
 ]

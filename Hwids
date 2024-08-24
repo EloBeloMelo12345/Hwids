@@ -54,5 +54,12 @@
         "endDate": "2024-09-13T11:35:48.850364Z",
         "discord": "222",
         "hwid": "111"
+    },
+    {
+        "length": "lifetime",
+        "startDate": "2024-08-24T18:51:17.726846Z",
+        "endDate": null,
+        "discord": "fullybenio",
+        "hwid": "1234"
     }
 ]

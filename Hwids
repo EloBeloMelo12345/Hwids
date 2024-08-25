@@ -40,5 +40,12 @@
         "endDate": null,
         "discord": "cr78649",
         "hwid": "B3AFBCF1-F057-404B-A8E3-08B457BAD9C4"
+    },
+    {
+        "length": "lifetime",
+        "startDate": "2024-08-25T14:25:29.446179Z",
+        "endDate": null,
+        "discord": "5",
+        "hwid": "2"
     }
 ]

@@ -1,16 +1,1 @@
-[
-    {
-        "length": "lifetime",
-        "startDate": "2024-07-11T00:00:00Z",
-        "endDate": null,
-        "discord": "1018250772187709570",
-        "hwid": "dasdadada"
-    },
-    {
-        "length": "lifetime",
-        "startDate": "2024-07-11T00:00:00Z",
-        "endDate": null,
-        "discord": "nekospapuga",
-        "hwid": "newhwidvalue"  
-    }
-]
+[{"length": "lifetime", "startDate": "2024-07-11T00:00:00Z", "endDate": null, "discord": "1018250772187709570", "hwid": "1"}, {"length": "lifetime", "startDate": "2024-07-11T00:00:00Z", "endDate": null, "discord": "nekospapuga", "hwid": "newhwidvalue"}]

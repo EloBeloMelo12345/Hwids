@@ -1,1 +1,16 @@
-
+[
+    {
+        "length": "lifetime",
+        "startDate": "2024-07-11T00:00:00Z",
+        "endDate": null,
+        "discord": "fullybenio",
+        "hwid": "dasdadada"
+    },
+    {
+        "length": "lifetime",
+        "startDate": "2024-07-11T00:00:00Z",
+        "endDate": null,
+        "discord": "nekospapuga",
+        "hwid": "newhwidvalue"  // Zamień "newhwidvalue" na rzeczywistą wartość HWID
+    }
+]

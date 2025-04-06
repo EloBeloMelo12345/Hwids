@@ -3,7 +3,7 @@
         "name": "Barca",
         "budget": 1000000,
         "league": "Division 1",
-        "logo": null,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/2020px-FC_Barcelona_%28crest%29.svg.png",
         "players": [
             {
                 "id": "1018250772187709570",

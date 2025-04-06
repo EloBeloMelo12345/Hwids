@@ -4,7 +4,12 @@
         "budget": 1000000,
         "league": null,
         "logo": "https://icon2.cleanpng.com/lnd/20241224/fy/4aaaed54bf3d7a0b628ed9b58d67b1.webp",
-        "squad": [],
+        "squad": [
+            {
+                "name": "dd",
+                "contract_expiry": "2027-12-22"
+            }
+        ],
         "transfer_offers": {}
     }
 }

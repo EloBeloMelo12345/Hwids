@@ -4,7 +4,12 @@
         "budget": 1000000,
         "league": null,
         "logo": "https://www.symbole.pl/wp-content/uploads/2020/10/logo-fc-barcelony-1024x768.jpg",
-        "squad": [],
+        "squad": [
+            {
+                "name": "dommyz",
+                "contract_expiry": "2025-05-06"
+            }
+        ],
         "transfer_offers": {}
     }
 }

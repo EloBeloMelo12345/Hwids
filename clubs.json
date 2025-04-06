@@ -12,5 +12,19 @@
         "goals_against": 0,
         "players": [],
         "created_at": "2025-04-06 22:59:19"
+    },
+    "445597219169763329": {
+        "name": "bra",
+        "logo": null,
+        "budget": 1000000,
+        "league": null,
+        "points": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 0,
+        "goals_against": 0,
+        "players": [],
+        "created_at": "2025-04-06 23:07:07"
     }
 }

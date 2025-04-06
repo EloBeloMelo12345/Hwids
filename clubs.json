@@ -58,5 +58,18 @@
         "losses": 0,
         "goals_for": 0,
         "goals_against": 0
+    },
+    "445597219169763329": {
+        "name": "oke",
+        "budget": 1000000,
+        "league": null,
+        "logo": null,
+        "players": [],
+        "points": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 0,
+        "goals_against": 0
     }
 }

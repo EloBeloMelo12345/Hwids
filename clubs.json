@@ -15,5 +15,13 @@
             }
         ],
         "transfer_offers": {}
+    },
+    "1204836959927803966": {
+        "name": "nekosfc",
+        "budget": 1000000,
+        "league": null,
+        "logo": null,
+        "squad": [],
+        "transfer_offers": {}
     }
 }

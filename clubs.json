@@ -8,6 +8,10 @@
             {
                 "name": "dommyz",
                 "contract_expiry": "2025-05-06"
+            },
+            {
+                "name": "dalke",
+                "contract_expiry": "2025-05-06"
             }
         ],
         "transfer_offers": {}

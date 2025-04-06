@@ -1,7 +1,7 @@
 {
     "1018250772187709570": {
         "name": "barca",
-        "budget": 1000000,
+        "budget": 999778,
         "league": null,
         "logo": "https://www.symbole.pl/wp-content/uploads/2020/10/logo-fc-barcelony-1024x768.jpg",
         "squad": [
@@ -12,13 +12,17 @@
             {
                 "name": "dalke",
                 "contract_expiry": "2025-05-06"
+            },
+            {
+                "name": "dalke",
+                "contract_expiry": "2026-12-31"
             }
         ],
         "transfer_offers": {}
     },
     "1204836959927803966": {
         "name": "nekosfc",
-        "budget": 1000000,
+        "budget": 1000222,
         "league": null,
         "logo": null,
         "squad": [],

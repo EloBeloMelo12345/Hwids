@@ -3,7 +3,7 @@
         "name": "barca",
         "budget": 1000000,
         "league": null,
-        "logo": null,
+        "logo": "https://www.symbole.pl/wp-content/uploads/2020/10/logo-fc-barcelony-1024x768.jpg",
         "squad": [],
         "transfer_offers": {}
     }

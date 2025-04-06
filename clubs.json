@@ -10,6 +10,12 @@
                 "contract_expiry": "2025-06-05"
             }
         ],
-        "transfer_offers": {}
+        "transfer_offers": [
+            {
+                "player_name": "dommyz",
+                "transfer_fee": 22,
+                "offered_by": 1018250772187709570
+            }
+        ]
     }
 }

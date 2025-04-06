@@ -34,7 +34,24 @@
         "budget": 1000000,
         "league": "Division 1",
         "logo": null,
-        "players": [],
+        "players": [
+            {
+                "id": "1204836959927803966",
+                "name": "nekospapuga",
+                "contract": {
+                    "wage": 0,
+                    "signed_date": "2025-04-06",
+                    "expires": "2026-04-06"
+                },
+                "stats": {
+                    "goals": 0,
+                    "assists": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0,
+                    "matches_played": 0
+                }
+            }
+        ],
         "points": 0,
         "wins": 0,
         "draws": 0,

@@ -71,5 +71,18 @@
         "losses": 0,
         "goals_for": 0,
         "goals_against": 0
+    },
+    "1084103304910487632": {
+        "name": "raoufs",
+        "budget": 1000000,
+        "league": null,
+        "logo": null,
+        "players": [],
+        "points": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 0,
+        "goals_against": 0
     }
 }

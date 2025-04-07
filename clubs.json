@@ -2,7 +2,7 @@
     "1018250772187709570": {
         "name": "Barcelona",
         "logo": null,
-        "budget": 1000000,
+        "budget": 1100000,
         "league": "Division 1",
         "points": 3,
         "wins": 1,
@@ -10,20 +10,13 @@
         "losses": 0,
         "goals_for": 2,
         "goals_against": 1,
-        "players": [
-            {
-                "id": "1018250772187709570",
-                "name": "fullybenio",
-                "salary": 1000,
-                "joined": "2025-04-07"
-            }
-        ],
+        "players": [],
         "created_at": "2025-04-07 19:07:28"
     },
     "1204836959927803966": {
         "name": "Real Madryt",
         "logo": null,
-        "budget": 1000000,
+        "budget": 900000,
         "league": "Division 1",
         "points": 0,
         "wins": 0,
@@ -31,7 +24,15 @@
         "losses": 0,
         "goals_for": 0,
         "goals_against": 0,
-        "players": [],
+        "players": [
+            {
+                "id": "1018250772187709570",
+                "name": "fullybenio",
+                "salary": 1000,
+                "joined": "2025-04-07",
+                "transfer_fee": 100000
+            }
+        ],
         "created_at": "2025-04-07 19:07:50"
     }
 }

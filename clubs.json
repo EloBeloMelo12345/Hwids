@@ -1,21 +1,6 @@
 {
-  "1": {
-    "name": "Baarca",
-    "owner_id": "1018250772187709570",
-    "created_at": "2025-04-07T16:19:37.068356",
-    "logo_url": null
-  },
   "league_data": {
     "standings": {
-      "1": {
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "goals_for": 2,
-        "goals_against": 0,
-        "points": 3
-      },
       "3": {
         "played": 1,
         "won": 0,

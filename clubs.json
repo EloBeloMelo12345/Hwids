@@ -4,6 +4,25 @@
     "owner_id": "1018250772187709570",
     "created_at": "2025-04-07T16:32:47.741342",
     "logo_url": "https://cdn.discordapp.com/ephemeral-attachments/1358831438878871552/1358841938224091136/FC_Barcelona_crest.svg.png?ex=67f54fac&is=67f3fe2c&hm=490f57f1c6165a0bbc2c16c8181fa5557e94c807e2e1cad927224c52b629fb08&",
-    "division": null
+    "division": 1
+  },
+  "league_data": {
+    "divisions": {
+      "1": {
+        "standings": {
+          "1": {
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "goals_for": 0,
+            "goals_against": 0,
+            "points": 0,
+            "form": []
+          }
+        },
+        "matches": []
+      }
+    }
   }
 }

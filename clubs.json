@@ -1,6 +1,22 @@
 {
   "league_data": {
-    "divisions": {}
+    "divisions": {
+      "1": {
+        "standings": {
+          "2": {
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "goals_for": 0,
+            "goals_against": 0,
+            "points": 0,
+            "form": []
+          }
+        },
+        "matches": []
+      }
+    }
   },
   "1": {
     "name": "Real",
@@ -14,6 +30,6 @@
     "owner_id": "1018250772187709570",
     "created_at": "2025-04-07T16:41:33.972514",
     "logo_url": null,
-    "division": null
+    "division": 1
   }
 }

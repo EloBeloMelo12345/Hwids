@@ -1,16 +1,6 @@
 {
   "league_data": {
-    "standings": {
-      "3": {
-        "played": 1,
-        "won": 0,
-        "drawn": 0,
-        "lost": 1,
-        "goals_for": 0,
-        "goals_against": 2,
-        "points": 0
-      }
-    },
+    "standings": {},
     "matches": [
       {
         "home_club": "Baarca",
@@ -20,11 +10,5 @@
         "date": "2025-04-07T16:22:32.564523"
       }
     ]
-  },
-  "3": {
-    "name": "elo",
-    "owner_id": "1204836959927803966",
-    "created_at": "2025-04-07T16:21:27.261239",
-    "logo_url": null
   }
 }

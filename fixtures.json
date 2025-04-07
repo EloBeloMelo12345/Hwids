@@ -5,17 +5,13 @@
                 "home": "Barcelona",
                 "away": "Real",
                 "date": "2025-04-07",
-                "played": true,
-                "home_score": 1,
-                "away_score": 1
+                "played": false
             },
             {
                 "home": "Real",
                 "away": "Barcelona",
                 "date": "2025-04-11",
-                "played": true,
-                "home_score": 2,
-                "away_score": 1
+                "played": false
             }
         ],
         "start_date": "2025-04-07",

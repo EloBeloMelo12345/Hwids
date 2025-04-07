@@ -8,35 +8,9 @@
                 "played": false
             },
             {
-                "home": "Barcelona",
-                "away": "przemo",
-                "date": "2025-04-09",
-                "played": false
-            },
-            {
                 "home": "Real",
-                "away": "przemo",
+                "away": "Barcelona",
                 "date": "2025-04-11",
-                "played": true,
-                "home_score": 0,
-                "away_score": 20
-            },
-            {
-                "home": "Real",
-                "away": "Barcelona",
-                "date": "2025-04-13",
-                "played": false
-            },
-            {
-                "home": "przemo",
-                "away": "Barcelona",
-                "date": "2025-04-14",
-                "played": false
-            },
-            {
-                "home": "przemo",
-                "away": "Real",
-                "date": "2025-04-16",
                 "played": false
             }
         ],

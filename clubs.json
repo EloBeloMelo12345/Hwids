@@ -1,23 +1,9 @@
 {
     "1018250772187709570": {
-        "name": "Benio",
+        "name": "barca",
         "logo": null,
         "budget": 1000000,
-        "league": "Division 1",
-        "points": 6,
-        "wins": 2,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 3,
-        "goals_against": 1,
-        "players": [],
-        "created_at": "2025-04-06 22:59:19"
-    },
-    "445597219169763329": {
-        "name": "bra",
-        "logo": null,
-        "budget": 1000000,
-        "league": "Division 1",
+        "league": null,
         "points": 0,
         "wins": 0,
         "draws": 0,
@@ -25,6 +11,6 @@
         "goals_for": 0,
         "goals_against": 0,
         "players": [],
-        "created_at": "2025-04-06 23:07:07"
+        "created_at": "2025-04-07 16:47:49"
     }
 }

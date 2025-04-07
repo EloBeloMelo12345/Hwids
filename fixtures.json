@@ -17,7 +17,9 @@
                 "home": "Real",
                 "away": "przemo",
                 "date": "2025-04-11",
-                "played": false
+                "played": true,
+                "home_score": 0,
+                "away_score": 20
             },
             {
                 "home": "Real",

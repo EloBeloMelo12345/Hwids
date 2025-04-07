@@ -1,1 +1,12 @@
-{}
+{
+  "league_data": {
+    "divisions": {}
+  },
+  "1": {
+    "name": "Real",
+    "owner_id": "1204836959927803966",
+    "created_at": "2025-04-07T16:41:06.508772",
+    "logo_url": null,
+    "division": null
+  }
+}

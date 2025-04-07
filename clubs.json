@@ -18,10 +18,10 @@
             "goals_against": 0,
             "points": 0,
             "matches_played": 0,
-            "seasons_played": 0,
+            "seasons_played": 2,
             "promotions": 0,
             "relegations": 0,
-            "titles": 0
+            "titles": 1
         },
         "players": [
             {
@@ -30,13 +30,13 @@
                 "salary": 1000,
                 "joined": "2025-04-07",
                 "current_stats": {
-                    "goals": 2,
+                    "goals": 0,
                     "assists": 0,
                     "yellow_cards": 0,
                     "red_cards": 0,
                     "clean_sheets": 0,
                     "saves": 0,
-                    "appearances": 1
+                    "appearances": 0
                 },
                 "all_time": {
                     "goals": 2,
@@ -70,7 +70,7 @@
             "goals_against": 0,
             "points": 0,
             "matches_played": 0,
-            "seasons_played": 0,
+            "seasons_played": 1,
             "promotions": 0,
             "relegations": 0,
             "titles": 0

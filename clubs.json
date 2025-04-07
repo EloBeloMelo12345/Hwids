@@ -1,16 +1,1 @@
-{
-    "1018250772187709570": {
-        "name": "Barcelona",
-        "logo": null,
-        "budget": 1100000,
-        "league": "Division 1",
-        "points": 0,
-        "wins": 0,
-        "draws": 0,
-        "losses": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "players": [],
-        "created_at": "2025-04-07 19:07:28"
-    }
-}
+{}

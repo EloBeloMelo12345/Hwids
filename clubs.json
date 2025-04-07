@@ -4,12 +4,12 @@
         "logo": null,
         "budget": 1000000,
         "league": "Division 1",
-        "points": 0,
-        "wins": 0,
+        "points": 3,
+        "wins": 1,
         "draws": 0,
         "losses": 0,
-        "goals_for": 0,
-        "goals_against": 0,
+        "goals_for": 2,
+        "goals_against": 1,
         "players": [
             {
                 "id": "1018250772187709570",

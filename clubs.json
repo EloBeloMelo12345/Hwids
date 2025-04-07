@@ -3,7 +3,7 @@
         "name": "Barcelona",
         "logo": "https://cdn.discordapp.com/ephemeral-attachments/1358849995926802656/1358896108872405162/FC_Barcelona_crest.svg.png?ex=67f5821f&is=67f4309f&hm=0c70cb8ce25be705ffa0c411b9ae6bf907f566323bdb0c8a8134be41d0794817&",
         "budget": 1000000,
-        "league": null,
+        "league": "Division 1",
         "points": 0,
         "wins": 0,
         "draws": 0,

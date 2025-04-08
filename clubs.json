@@ -1,1 +1,29 @@
-{}
+{
+    "1018250772187709570": {
+        "name": "Barcelona",
+        "logo": "https://cdn.discordapp.com/ephemeral-attachments/1358849995926802656/1359076298676244620/images.png?ex=67f629f0&is=67f4d870&hm=5531f07864b7c7115ba5cbceba07d4e97e09a7fae2265c4f8021f13430bdf3de&",
+        "budget": 1000000,
+        "league": null,
+        "points": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 0,
+        "goals_against": 0,
+        "all_time": {
+            "wins": 0,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 0,
+            "goals_against": 0,
+            "points": 0,
+            "matches_played": 0,
+            "seasons_played": 0,
+            "promotions": 0,
+            "relegations": 0,
+            "titles": 0
+        },
+        "players": [],
+        "created_at": "2025-04-08 08:04:00"
+    }
+}

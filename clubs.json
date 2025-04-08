@@ -1,9 +1,61 @@
 {
     "1018250772187709570": {
-        "name": "BARCA",
+        "name": "Barcelona",
+        "logo": "https://cdn.discordapp.com/ephemeral-attachments/1358849995926802656/1358896108872405162/FC_Barcelona_crest.svg.png?ex=67f5821f&is=67f4309f&hm=0c70cb8ce25be705ffa0c411b9ae6bf907f566323bdb0c8a8134be41d0794817&",
+        "budget": 1000000,
+        "league": "Division 1",
+        "points": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 0,
+        "goals_against": 0,
+        "all_time": {
+            "wins": 3,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 8,
+            "goals_against": 0,
+            "points": 9,
+            "matches_played": 3,
+            "seasons_played": 4,
+            "promotions": 0,
+            "relegations": 0,
+            "titles": 2
+        },
+        "players": [
+            {
+                "id": "1018250772187709570",
+                "name": "fullybenio",
+                "salary": 1000,
+                "joined": "2025-04-07",
+                "current_stats": {
+                    "goals": 5,
+                    "assists": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0,
+                    "clean_sheets": 0,
+                    "saves": 0,
+                    "appearances": 2
+                },
+                "all_time": {
+                    "goals": 7,
+                    "assists": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 5,
+                    "clean_sheets": 0,
+                    "saves": 0,
+                    "appearances": 3
+                }
+            }
+        ],
+        "created_at": "2025-04-07 22:08:01"
+    },
+    "1204836959927803966": {
+        "name": "Real Madrid",
         "logo": null,
         "budget": 1000000,
-        "league": null,
+        "league": "Division 1",
         "points": 0,
         "wins": 0,
         "draws": 0,
@@ -13,17 +65,17 @@
         "all_time": {
             "wins": 0,
             "draws": 0,
-            "losses": 0,
+            "losses": 1,
             "goals_for": 0,
-            "goals_against": 0,
+            "goals_against": 3,
             "points": 0,
-            "matches_played": 0,
-            "seasons_played": 0,
+            "matches_played": 1,
+            "seasons_played": 2,
             "promotions": 0,
             "relegations": 0,
             "titles": 0
         },
         "players": [],
-        "created_at": "2025-04-08 06:45:07"
+        "created_at": "2025-04-07 22:23:34"
     }
 }

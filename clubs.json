@@ -18,10 +18,10 @@
             "goals_against": 0,
             "points": 0,
             "matches_played": 0,
-            "seasons_played": 0,
+            "seasons_played": 2,
             "promotions": 0,
             "relegations": 0,
-            "titles": 0
+            "titles": 1
         },
         "players": [],
         "created_at": "2025-04-08 16:29:28"
@@ -45,7 +45,7 @@
             "goals_against": 0,
             "points": 0,
             "matches_played": 0,
-            "seasons_played": 0,
+            "seasons_played": 1,
             "promotions": 0,
             "relegations": 0,
             "titles": 0

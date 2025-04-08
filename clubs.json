@@ -4,12 +4,12 @@
         "logo": "https://cdn.discordapp.com/ephemeral-attachments/1358849995926802656/1359173299019579473/FC_Barcelona_crest.svg.png?ex=67f68446&is=67f532c6&hm=4abb97730ef4ce6cbb905f220b4f7d6f959ce1663f8fea1466204e62fc480596&",
         "budget": 1000000,
         "league": "Division 1",
-        "points": 3,
-        "wins": 1,
+        "points": 0,
+        "wins": 0,
         "draws": 0,
-        "losses": 1,
-        "goals_for": 6,
-        "goals_against": 4,
+        "losses": 0,
+        "goals_for": 0,
+        "goals_against": 0,
         "all_time": {
             "wins": 1,
             "draws": 0,
@@ -18,10 +18,10 @@
             "goals_against": 4,
             "points": 3,
             "matches_played": 2,
-            "seasons_played": 2,
+            "seasons_played": 4,
             "promotions": 0,
             "relegations": 0,
-            "titles": 1
+            "titles": 2
         },
         "players": [
             {
@@ -30,13 +30,13 @@
                 "salary": 1000,
                 "joined": "2025-04-08",
                 "current_stats": {
-                    "goals": 3,
+                    "goals": 0,
                     "assists": 0,
                     "yellow_cards": 0,
                     "red_cards": 0,
                     "clean_sheets": 0,
                     "saves": 0,
-                    "appearances": 1
+                    "appearances": 0
                 },
                 "all_time": {
                     "goals": 3,
@@ -70,7 +70,7 @@
             "goals_against": 0,
             "points": 0,
             "matches_played": 0,
-            "seasons_played": 1,
+            "seasons_played": 2,
             "promotions": 0,
             "relegations": 0,
             "titles": 0

@@ -30,7 +30,7 @@
                 "salary": 1000,
                 "joined": "2025-04-08",
                 "current_stats": {
-                    "goals": 20,
+                    "goals": 0,
                     "assists": 0,
                     "yellow_cards": 0,
                     "red_cards": 0,
@@ -39,7 +39,7 @@
                     "appearances": 0
                 },
                 "all_time": {
-                    "goals": 20,
+                    "goals": 0,
                     "assists": 0,
                     "yellow_cards": 0,
                     "red_cards": 0,

@@ -18,7 +18,7 @@
             "goals_against": 0,
             "points": 0,
             "matches_played": 0,
-            "seasons_played": 10,
+            "seasons_played": 11,
             "promotions": 0,
             "relegations": 0,
             "titles": 1
@@ -56,11 +56,11 @@
         "logo": null,
         "budget": 990000,
         "league": "Division 1",
-        "points": 6,
-        "wins": 2,
+        "points": 0,
+        "wins": 0,
         "draws": 0,
         "losses": 0,
-        "goals_for": 5,
+        "goals_for": 0,
         "goals_against": 0,
         "all_time": {
             "wins": 2,
@@ -70,10 +70,10 @@
             "goals_against": 4,
             "points": 6,
             "matches_played": 2,
-            "seasons_played": 3,
+            "seasons_played": 5,
             "promotions": 0,
             "relegations": 0,
-            "titles": 1
+            "titles": 2
         },
         "players": [
             {

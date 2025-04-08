@@ -56,20 +56,20 @@
         "logo": null,
         "budget": 990000,
         "league": "Division 1",
-        "points": 0,
-        "wins": 0,
+        "points": 3,
+        "wins": 1,
         "draws": 0,
         "losses": 0,
-        "goals_for": 0,
-        "goals_against": 0,
+        "goals_for": 3,
+        "goals_against": 2,
         "all_time": {
-            "wins": 0,
+            "wins": 1,
             "draws": 0,
             "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0,
-            "points": 0,
-            "matches_played": 0,
+            "goals_for": 3,
+            "goals_against": 2,
+            "points": 3,
+            "matches_played": 1,
             "seasons_played": 0,
             "promotions": 0,
             "relegations": 0,
@@ -81,7 +81,25 @@
                 "name": "fullybenio",
                 "salary": 1000,
                 "joined": "2025-04-08",
-                "transfer_fee": 10000
+                "transfer_fee": 10000,
+                "current_stats": {
+                    "goals": 0,
+                    "assists": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0,
+                    "saves": 0,
+                    "clean_sheets": 0,
+                    "appearances": 0
+                },
+                "all_time": {
+                    "goals": 0,
+                    "assists": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0,
+                    "saves": 0,
+                    "clean_sheets": 0,
+                    "appearances": 0
+                }
             }
         ],
         "created_at": "2025-04-08 18:21:04"

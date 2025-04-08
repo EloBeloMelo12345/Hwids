@@ -11,7 +11,16 @@
                 "home": "Barca",
                 "away": "Real Madrid",
                 "date": "2025-04-12",
-                "played": false
+                "played": true,
+                "home_score": 1,
+                "away_score": 0,
+                "events": [
+                    {
+                        "type": "goal",
+                        "player": "@fullybenio",
+                        "minute": 1
+                    }
+                ]
             }
         ],
         "start_date": "2025-04-08",

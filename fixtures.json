@@ -5,7 +5,10 @@
                 "home": "Real Madrid",
                 "away": "Barca",
                 "date": "2025-04-08",
-                "played": false
+                "played": true,
+                "home_score": 1,
+                "away_score": 1,
+                "events": []
             },
             {
                 "home": "Barca",

@@ -18,10 +18,10 @@
             "goals_against": 4,
             "points": 3,
             "matches_played": 2,
-            "seasons_played": 4,
+            "seasons_played": 6,
             "promotions": 0,
             "relegations": 0,
-            "titles": 2
+            "titles": 3
         },
         "players": [
             {
@@ -70,7 +70,7 @@
             "goals_against": 0,
             "points": 0,
             "matches_played": 0,
-            "seasons_played": 2,
+            "seasons_played": 3,
             "promotions": 0,
             "relegations": 0,
             "titles": 0

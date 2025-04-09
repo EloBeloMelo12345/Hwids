@@ -1,1 +1,55 @@
-{}
+{
+    "1018250772187709570": {
+        "name": "Barca",
+        "logo": null,
+        "budget": 990000,
+        "league": "Division 1",
+        "points": 0,
+        "wins": 0,
+        "draws": 0,
+        "losses": 2,
+        "goals_for": 0,
+        "goals_against": 3,
+        "all_time": {
+            "wins": 3,
+            "draws": 1,
+            "losses": 0,
+            "goals_for": 19,
+            "goals_against": 12,
+            "points": 10,
+            "matches_played": 7,
+            "seasons_played": 17,
+            "promotions": 0,
+            "relegations": 0,
+            "titles": 5
+        },
+        "players": [
+            {
+                "id": "1018250772187709570",
+                "name": "fullybenio",
+                "salary": 1000,
+                "joined": "2025-04-08",
+                "transfer_fee": 10000,
+                "current_stats": {
+                    "goals": 0,
+                    "assists": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0,
+                    "clean_sheets": 0,
+                    "saves": 0,
+                    "appearances": 0
+                },
+                "all_time": {
+                    "goals": 22,
+                    "assists": 0,
+                    "yellow_cards": 0,
+                    "red_cards": 0,
+                    "saves": 0,
+                    "clean_sheets": 0,
+                    "appearances": 0
+                }
+            }
+        ],
+        "created_at": "2025-04-08 18:21:04"
+    }
+}

@@ -11,7 +11,23 @@
                 "home": "Barca",
                 "away": "Real Madrid",
                 "date": "2025-04-13",
-                "played": false
+                "played": true,
+                "home_score": 0,
+                "away_score": 2,
+                "events": [
+                    {
+                        "type": "goal",
+                        "player": "nekospapuga",
+                        "minute": 20,
+                        "team": "away"
+                    },
+                    {
+                        "type": "goal",
+                        "player": "nekospapuga",
+                        "minute": 90,
+                        "team": "away"
+                    }
+                ]
             }
         ],
         "start_date": "2025-04-09",

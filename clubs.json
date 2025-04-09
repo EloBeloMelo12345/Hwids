@@ -4,11 +4,11 @@
         "logo": null,
         "budget": 1010000,
         "league": "Division 1",
-        "points": 3,
-        "wins": 1,
+        "points": 0,
+        "wins": 0,
         "draws": 0,
         "losses": 0,
-        "goals_for": 2,
+        "goals_for": 0,
         "goals_against": 0,
         "all_time": {
             "wins": 1,
@@ -18,10 +18,10 @@
             "goals_against": 13,
             "points": 4,
             "matches_played": 3,
-            "seasons_played": 24,
+            "seasons_played": 26,
             "promotions": 0,
             "relegations": 0,
-            "titles": 6
+            "titles": 7
         },
         "players": [
             {
@@ -30,7 +30,7 @@
                 "salary": 1000,
                 "joined": "2025-04-08",
                 "current_stats": {
-                    "goals": 14,
+                    "goals": 0,
                     "assists": 0,
                     "yellow_cards": 0,
                     "red_cards": 0,
@@ -59,9 +59,9 @@
         "points": 0,
         "wins": 0,
         "draws": 0,
-        "losses": 1,
+        "losses": 0,
         "goals_for": 0,
-        "goals_against": 2,
+        "goals_against": 0,
         "all_time": {
             "wins": 3,
             "draws": 1,
@@ -70,7 +70,7 @@
             "goals_against": 9,
             "points": 10,
             "matches_played": 5,
-            "seasons_played": 16,
+            "seasons_played": 17,
             "promotions": 0,
             "relegations": 0,
             "titles": 5

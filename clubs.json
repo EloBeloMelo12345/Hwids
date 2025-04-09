@@ -4,12 +4,12 @@
         "logo": null,
         "budget": 1010000,
         "league": "Division 1",
-        "points": 1,
+        "points": 0,
         "wins": 0,
-        "draws": 1,
-        "losses": 1,
-        "goals_for": 3,
-        "goals_against": 13,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 0,
+        "goals_against": 0,
         "all_time": {
             "wins": 0,
             "draws": 1,
@@ -18,7 +18,7 @@
             "goals_against": 13,
             "points": 1,
             "matches_played": 2,
-            "seasons_played": 21,
+            "seasons_played": 22,
             "promotions": 0,
             "relegations": 0,
             "titles": 5
@@ -30,7 +30,7 @@
                 "salary": 1000,
                 "joined": "2025-04-08",
                 "current_stats": {
-                    "goals": 3,
+                    "goals": 0,
                     "assists": 0,
                     "yellow_cards": 0,
                     "red_cards": 0,
@@ -56,12 +56,12 @@
         "logo": null,
         "budget": 990000,
         "league": "Division 1",
-        "points": 4,
-        "wins": 1,
-        "draws": 1,
+        "points": 0,
+        "wins": 0,
+        "draws": 0,
         "losses": 0,
-        "goals_for": 13,
-        "goals_against": 3,
+        "goals_for": 0,
+        "goals_against": 0,
         "all_time": {
             "wins": 3,
             "draws": 1,
@@ -70,10 +70,10 @@
             "goals_against": 7,
             "points": 10,
             "matches_played": 4,
-            "seasons_played": 13,
+            "seasons_played": 15,
             "promotions": 0,
             "relegations": 0,
-            "titles": 4
+            "titles": 5
         },
         "players": [
             {
@@ -83,8 +83,8 @@
                 "joined": "2025-04-08",
                 "transfer_fee": 10000,
                 "current_stats": {
-                    "goals": 33,
-                    "assists": 11,
+                    "goals": 0,
+                    "assists": 0,
                     "yellow_cards": 0,
                     "red_cards": 0,
                     "clean_sheets": 0,

@@ -1,1 +1,15 @@
-{}
+{
+    "trail": {
+        "name": "trail",
+        "status": "registration",
+        "teams": [],
+        "max_teams": 16,
+        "matches": [],
+        "prize_pool": 1000000,
+        "standings": [],
+        "group_stage": true,
+        "knockout_stage": true,
+        "two_leg_matches": true,
+        "created_at": "2025-04-09 22:22:01"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "UCL": {
+        "name": "UCL",
+        "status": "registration",
+        "teams": [],
+        "max_teams": 12,
+        "matches": [],
+        "prize_pool": 100000,
+        "standings": [],
+        "created_at": "2025-04-09 22:00:03"
+    }
+}

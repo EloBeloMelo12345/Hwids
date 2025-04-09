@@ -51,7 +51,143 @@
                 "home": "Barca",
                 "away": "Real Madrid",
                 "date": "2025-04-13",
-                "played": false
+                "played": true,
+                "home_score": 10,
+                "away_score": 0,
+                "events": [
+                    {
+                        "type": "goal",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "assist",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "goal",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "assist",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "goal",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "assist",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "goal",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "assist",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "goal",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "assist",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "goal",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "assist",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "goal",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "assist",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "goal",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "assist",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "goal",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "assist",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "goal",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "assist",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "goal",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    },
+                    {
+                        "type": "assist",
+                        "player": "fullybenio",
+                        "minute": 20,
+                        "team": "home"
+                    }
+                ]
             }
         ],
         "start_date": "2025-04-09",

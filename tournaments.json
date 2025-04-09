@@ -2,7 +2,18 @@
     "trail": {
         "name": "trail",
         "status": "registration",
-        "teams": [],
+        "teams": [
+            {
+                "name": "Barcelona",
+                "owner_id": "1018250772187709570",
+                "points": 0,
+                "wins": 0,
+                "draws": 0,
+                "losses": 0,
+                "goals_for": 0,
+                "goals_against": 0
+            }
+        ],
         "max_teams": 16,
         "matches": [],
         "prize_pool": 1000000,

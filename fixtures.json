@@ -1,1 +1,20 @@
-{}
+{
+    "Division 1": {
+        "matches": [
+            {
+                "home": "Real Madrid",
+                "away": "Barca",
+                "date": "2025-04-09",
+                "played": false
+            },
+            {
+                "home": "Barca",
+                "away": "Real Madrid",
+                "date": "2025-04-13",
+                "played": false
+            }
+        ],
+        "start_date": "2025-04-09",
+        "end_date": "2025-04-16"
+    }
+}

@@ -76,5 +76,8 @@
       }
     ]
   },
-  "ends_at": "2025-04-17 18:19:22.055503+00:00"
+  "ends_at": "2025-04-17 18:19:22.055503+00:00",
+  "table_images": {
+    "1": "https://cdn.discordapp.com/ephemeral-attachments/1359958197376647409/1359958289152086097/FC_Barcelona_crest.svg.webp?ex=67f95f5a&is=67f80dda&hm=c8da2fe8267c6609715ce000f0e8696b5c372fb355fea5348d9e65dfe6edf996&"
+  }
 }

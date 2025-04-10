@@ -1,31 +1,51 @@
 {
-  "teams": [],
-  "matches": [],
-  "season": 1,
-  "divisions": {
-    "1": [
-      {
-        "name": "ok",
-        "manager": "1018250772187709570",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0
-      },
-      {
-        "name": "re",
-        "manager": "1204836959927803966",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0
-      }
-    ]
-  }
+  "season": 2,
+  "teams": [
+    {
+      "name": "ok",
+      "manager": "1018250772187709570",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "points": 0
+    },
+    {
+      "name": "re",
+      "manager": "1204836959927803966",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "points": 0
+    }
+  ],
+  "matches": [
+    {
+      "home_team": "ok",
+      "away_team": "re",
+      "home_manager": "1018250772187709570",
+      "away_manager": "1204836959927803966",
+      "status": "scheduled",
+      "home_score": null,
+      "away_score": null,
+      "played_at": null
+    },
+    {
+      "home_team": "re",
+      "away_team": "ok",
+      "home_manager": "1204836959927803966",
+      "away_manager": "1018250772187709570",
+      "status": "scheduled",
+      "home_score": null,
+      "away_score": null,
+      "played_at": null
+    }
+  ],
+  "started_at": "2025-04-10 18:15:54.943407+00:00",
+  "status": "active"
 }

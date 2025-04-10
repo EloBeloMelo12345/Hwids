@@ -1,5 +1,5 @@
 {
-  "season": 2,
+  "season": 3,
   "teams": [
     {
       "name": "ok",
@@ -26,16 +26,7 @@
   ],
   "matches": [
     {
-      "home_team": "ok",
-      "away_team": "re",
-      "home_manager": "1018250772187709570",
-      "away_manager": "1204836959927803966",
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
-      "played_at": null
-    },
-    {
+      "division": "1",
       "home_team": "re",
       "away_team": "ok",
       "home_manager": "1204836959927803966",
@@ -44,9 +35,20 @@
       "home_score": null,
       "away_score": null,
       "played_at": null
+    },
+    {
+      "division": "1",
+      "home_team": "ok",
+      "away_team": "re",
+      "home_manager": "1018250772187709570",
+      "away_manager": "1204836959927803966",
+      "status": "scheduled",
+      "home_score": null,
+      "away_score": null,
+      "played_at": null
     }
   ],
-  "started_at": "2025-04-10 18:15:54.943407+00:00",
+  "started_at": "2025-04-10 18:19:22.055503+00:00",
   "status": "active",
   "divisions": {
     "1": [
@@ -73,5 +75,6 @@
         "points": 0
       }
     ]
-  }
+  },
+  "ends_at": "2025-04-17 18:19:22.055503+00:00"
 }

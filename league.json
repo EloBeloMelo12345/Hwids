@@ -60,6 +60,17 @@
         "goals_for": 0,
         "goals_against": 0,
         "points": 0
+      },
+      {
+        "name": "ok",
+        "manager": "1018250772187709570",
+        "played": 0,
+        "won": 0,
+        "drawn": 0,
+        "lost": 0,
+        "goals_for": 0,
+        "goals_against": 0,
+        "points": 0
       }
     ]
   }

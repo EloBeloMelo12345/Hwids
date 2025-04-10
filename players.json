@@ -1,0 +1,26 @@
+{
+  "players": {
+    "1204836959927803966": {
+      "stats": {
+        "season": {
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "appearances": 0
+        },
+        "all_time": {
+          "goals": 0,
+          "assists": 0,
+          "clean_sheets": 0,
+          "yellow_cards": 0,
+          "red_cards": 0,
+          "saves": 0,
+          "appearances": 0
+        }
+      }
+    }
+  }
+}

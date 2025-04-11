@@ -1,17 +1,1 @@
-[
-  {
-    "name": "barca",
-    "owner_id": "1018250772187709570",
-    "owner_name": "fullybenio",
-    "logo_url": null,
-    "pending_contracts": [
-      {
-        "player_id": "1204836959927803966",
-        "player_name": "nekospapuga",
-        "wage": 7,
-        "duration": 30,
-        "offered_at": 1744399739
-      }
-    ]
-  }
-]
+[]

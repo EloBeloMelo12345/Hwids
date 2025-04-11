@@ -11,6 +11,13 @@
         "wage": 77,
         "duration": 2,
         "offered_at": 1744399930
+      },
+      {
+        "player_id": "1204836959927803966",
+        "player_name": "nekospapuga",
+        "wage": 100,
+        "duration": 70,
+        "offered_at": 1744400195
       }
     ]
   }

@@ -4,57 +4,66 @@
       {
         "name": "barca",
         "manager": "1018250772187709570",
-        "played": 2,
-        "won": 2,
+        "played": 0,
+        "won": 0,
         "drawn": 0,
         "lost": 0,
-        "goals_for": 6,
-        "goals_against": 2,
-        "points": 6
+        "goals_for": 0,
+        "goals_against": 0,
+        "points": 0
       },
       {
         "name": "Real",
         "manager": "1018250772187709570",
-        "played": 2,
+        "played": 0,
         "won": 0,
         "drawn": 0,
-        "lost": 2,
-        "goals_for": 2,
-        "goals_against": 6,
+        "lost": 0,
+        "goals_for": 0,
+        "goals_against": 0,
         "points": 0
       }
     ]
   },
-  "matches": [
-    {
-      "division": "1",
-      "home_team": "barca",
-      "away_team": "Real",
-      "home_manager": "1018250772187709570",
-      "away_manager": "1018250772187709570",
-      "status": "completed",
-      "home_score": 3,
-      "away_score": 0,
-      "played_at": "2025-04-11 06:20:32.667614+00:00"
-    },
-    {
-      "division": "1",
-      "home_team": "Real",
-      "away_team": "barca",
-      "home_manager": "1018250772187709570",
-      "away_manager": "1018250772187709570",
-      "status": "completed",
-      "home_score": 2,
-      "away_score": 3,
-      "played_at": "2025-04-11 06:24:48.159122+00:00"
-    }
-  ],
+  "matches": [],
   "season": 2,
   "divisions_status": {
     "1": {
-      "started_at": "2025-04-11 06:20:04.502027+00:00",
-      "ends_at": "2025-04-18 06:20:04.502027+00:00",
-      "status": "active"
+      "status": "inactive",
+      "last_season_end": "2025-04-11 14:01:09.023653+00:00"
     }
+  },
+  "history": {
+    "1": [
+      {
+        "season": 2,
+        "standings": [
+          {
+            "name": "barca",
+            "manager": "1018250772187709570",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "goals_for": 0,
+            "goals_against": 0,
+            "points": 0
+          },
+          {
+            "name": "Real",
+            "manager": "1018250772187709570",
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "goals_for": 0,
+            "goals_against": 0,
+            "points": 0
+          }
+        ],
+        "started_at": "2025-04-11 06:20:04.502027+00:00",
+        "ended_at": "2025-04-11 14:01:09.023653+00:00"
+      }
+    ]
   }
 }

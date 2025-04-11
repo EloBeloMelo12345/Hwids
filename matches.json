@@ -4,23 +4,23 @@
       {
         "name": "barca",
         "manager": "1018250772187709570",
-        "played": 1,
-        "won": 1,
+        "played": 2,
+        "won": 2,
         "drawn": 0,
         "lost": 0,
-        "goals_for": 3,
-        "goals_against": 0,
-        "points": 3
+        "goals_for": 7,
+        "goals_against": 3,
+        "points": 6
       },
       {
         "name": "Real",
         "manager": "1018250772187709570",
-        "played": 1,
+        "played": 2,
         "won": 0,
         "drawn": 0,
-        "lost": 1,
-        "goals_for": 0,
-        "goals_against": 3,
+        "lost": 2,
+        "goals_for": 3,
+        "goals_against": 7,
         "points": 0
       }
     ]
@@ -43,10 +43,10 @@
       "away_team": "barca",
       "home_manager": "1018250772187709570",
       "away_manager": "1018250772187709570",
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
-      "played_at": null
+      "status": "completed",
+      "home_score": 3,
+      "away_score": 4,
+      "played_at": "2025-04-11 14:05:59.313139+00:00"
     }
   ],
   "season": 3,

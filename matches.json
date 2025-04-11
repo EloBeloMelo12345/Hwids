@@ -25,12 +25,36 @@
       }
     ]
   },
-  "matches": [],
-  "season": 3,
+  "matches": [
+    {
+      "division": "1",
+      "home_team": "barca",
+      "away_team": "Real",
+      "home_manager": "1018250772187709570",
+      "away_manager": "1018250772187709570",
+      "status": "scheduled",
+      "home_score": null,
+      "away_score": null,
+      "played_at": null
+    },
+    {
+      "division": "1",
+      "home_team": "Real",
+      "away_team": "barca",
+      "home_manager": "1018250772187709570",
+      "away_manager": "1018250772187709570",
+      "status": "scheduled",
+      "home_score": null,
+      "away_score": null,
+      "played_at": null
+    }
+  ],
+  "season": 4,
   "divisions_status": {
     "1": {
-      "status": "inactive",
-      "last_season_end": "2025-04-11 14:10:25.544342+00:00"
+      "started_at": "2025-04-11 14:10:49.103025+00:00",
+      "ends_at": "2025-04-18 14:10:49.103025+00:00",
+      "status": "active"
     }
   },
   "history": {

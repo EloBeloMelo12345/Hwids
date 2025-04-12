@@ -1,0 +1,31 @@
+{
+    "laliga": {
+        "divisions": {
+            "1": {
+                "teams": {},
+                "standings": [],
+                "level": 1
+            },
+            "2": {
+                "teams": {},
+                "standings": [],
+                "level": 2
+            },
+            "3": {
+                "teams": {},
+                "standings": [],
+                "level": 3
+            },
+            "4": {
+                "teams": {},
+                "standings": [],
+                "level": 4
+            }
+        },
+        "created_at": "2025-04-13 00:25:54.287788",
+        "total_divisions": 4,
+        "teams_per_division": 12,
+        "promotion_spots": 2,
+        "relegation_spots": 2
+    }
+}

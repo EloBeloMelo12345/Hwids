@@ -4,22 +4,22 @@
             "1": {
                 "teams": {
                     "barca": {
-                        "points": 4,
-                        "matches_played": 2,
-                        "wins": 1,
-                        "draws": 1,
+                        "points": 0,
+                        "matches_played": 0,
+                        "wins": 0,
+                        "draws": 0,
                         "losses": 0,
-                        "goals_for": 3,
+                        "goals_for": 0,
                         "goals_against": 0
                     },
                     "real": {
-                        "points": 1,
-                        "matches_played": 2,
+                        "points": 0,
+                        "matches_played": 0,
                         "wins": 0,
-                        "draws": 1,
-                        "losses": 1,
+                        "draws": 0,
+                        "losses": 0,
                         "goals_for": 0,
-                        "goals_against": 3
+                        "goals_against": 0
                     }
                 },
                 "standings": [],

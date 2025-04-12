@@ -1,6 +1,16 @@
 {
     "lol": {
-        "teams": {},
+        "teams": {
+            "real": {
+                "points": 0,
+                "matches_played": 0,
+                "wins": 0,
+                "draws": 0,
+                "losses": 0,
+                "goals_for": 0,
+                "goals_against": 0
+            }
+        },
         "standings": [],
         "created_at": "2025-04-13 00:13:13.646534"
     }

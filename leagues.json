@@ -26,20 +26,20 @@
                 "level": 1,
                 "fixtures": [
                     {
-                        "home": "barca",
-                        "away": "real",
-                        "date": "2025-04-13 20:30",
-                        "played": true,
-                        "home_score": 3,
-                        "away_score": 0
-                    },
-                    {
                         "home": "real",
                         "away": "barca",
+                        "date": "2025-04-13 13:45",
+                        "played": false,
+                        "home_score": null,
+                        "away_score": null
+                    },
+                    {
+                        "home": "barca",
+                        "away": "real",
                         "date": "2025-04-14 11:45",
-                        "played": true,
-                        "home_score": 0,
-                        "away_score": 0
+                        "played": false,
+                        "home_score": null,
+                        "away_score": null
                     }
                 ],
                 "started": true,

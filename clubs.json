@@ -15,5 +15,13 @@
             }
         ],
         "budget": 10000000
+    },
+    "barcelona": {
+        "logo": null,
+        "managers": [
+            1018250772187709570
+        ],
+        "players": [],
+        "budget": 10000000
     }
 }

@@ -1,1 +1,10 @@
-{}
+{
+    "Barcelona": {
+        "logo": "https://cdn.discordapp.com/ephemeral-attachments/1360583669349355532/1360585493804486727/FC_Barcelona_crest.svg.webp?ex=67fba77c&is=67fa55fc&hm=ab0e2688838109dc3fb3f89e083c515c23a5803a9c9e02c36ca14e891b139408&",
+        "managers": [
+            1018250772187709570
+        ],
+        "players": [],
+        "budget": 10000000
+    }
+}

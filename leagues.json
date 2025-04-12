@@ -2,7 +2,17 @@
     "1": {
         "divisions": {
             "1": {
-                "teams": {},
+                "teams": {
+                    "barca": {
+                        "points": 0,
+                        "matches_played": 0,
+                        "wins": 0,
+                        "draws": 0,
+                        "losses": 0,
+                        "goals_for": 0,
+                        "goals_against": 0
+                    }
+                },
                 "standings": [],
                 "level": 1
             }

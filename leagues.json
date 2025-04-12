@@ -22,5 +22,24 @@
         "teams_per_division": 12,
         "promotion_spots": 2,
         "relegation_spots": 2
+    },
+    "gemran": {
+        "divisions": {
+            "1": {
+                "teams": {},
+                "standings": [],
+                "level": 1
+            },
+            "2": {
+                "teams": {},
+                "standings": [],
+                "level": 2
+            }
+        },
+        "created_at": "2025-04-13 00:22:54.300503",
+        "total_divisions": 2,
+        "teams_per_division": 12,
+        "promotion_spots": 2,
+        "relegation_spots": 2
     }
 }

@@ -25,13 +25,13 @@
         ],
         "budget": 10000000,
         "stats": {
-            "matches_played": 0,
-            "wins": 0,
+            "matches_played": 2,
+            "wins": 2,
             "draws": 0,
             "losses": 0,
-            "goals_for": 0,
-            "goals_against": 0,
-            "points": 0,
+            "goals_for": 13,
+            "goals_against": 7,
+            "points": 6,
             "clean_sheets": 0
         }
     }

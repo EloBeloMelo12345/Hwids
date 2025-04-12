@@ -2,11 +2,21 @@
     "Premiero": {
         "division": 1,
         "teams": [
-            "barca"
+            "barca",
+            "real"
         ],
         "fixtures": [],
         "table": {
             "barca": {
+                "played": 0,
+                "won": 0,
+                "drawn": 0,
+                "lost": 0,
+                "goals_for": 0,
+                "goals_against": 0,
+                "points": 0
+            },
+            "real": {
                 "played": 0,
                 "won": 0,
                 "drawn": 0,

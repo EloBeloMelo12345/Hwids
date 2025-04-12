@@ -12,14 +12,14 @@
                 "weeks_paid": 0,
                 "joined_at": "2025-04-12T15:20:39.035124",
                 "stats": {
-                    "matches_played": 0,
-                    "goals": 0,
-                    "assists": 0,
+                    "matches_played": 14,
+                    "goals": 15,
+                    "assists": 4,
                     "saves": 0,
                     "clean_sheets": 0,
                     "yellow_cards": 0,
                     "red_cards": 0,
-                    "mvps": 0
+                    "mvps": 13
                 }
             }
         ],

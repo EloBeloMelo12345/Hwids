@@ -1,0 +1,20 @@
+{
+    "barca": {
+        "logo": null,
+        "managers": [
+            1018250772187709570
+        ],
+        "players": [],
+        "budget": 10000000,
+        "stats": {
+            "matches_played": 0,
+            "wins": 0,
+            "draws": 0,
+            "losses": 0,
+            "goals_for": 0,
+            "goals_against": 0,
+            "points": 0,
+            "clean_sheets": 0
+        }
+    }
+}

@@ -4,7 +4,16 @@
         "managers": [
             1018250772187709570
         ],
-        "players": [],
+        "players": [
+            {
+                "id": 1204836959927803966,
+                "weekly_wage": 12,
+                "duration_weeks": 1,
+                "weeks_paid": 0,
+                "joined_at": "2025-04-12T14:21:37.178787",
+                "next_payment_due": "2025-04-19T14:21:37.178787"
+            }
+        ],
         "budget": 10000000
     }
 }

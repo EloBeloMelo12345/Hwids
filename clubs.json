@@ -28,5 +28,35 @@
                 "clean_sheets": 0
             }
         }
+    },
+    "real": {
+        "logo": "https://cdn.discordapp.com/ephemeral-attachments/1360632632022667491/1361025754221121606/Real-Madryt-logo-600x700.jpg?ex=67fd4182&is=67fbf002&hm=da7d3be954881c3041d8947b4c2904686a203195d4c53df3485499ffd526c4dd&",
+        "managers": [
+            1018250772187709570
+        ],
+        "players": [],
+        "budget": 10000000,
+        "stats": {
+            "all_time": {
+                "matches_played": 0,
+                "wins": 0,
+                "draws": 0,
+                "losses": 0,
+                "goals_for": 0,
+                "goals_against": 0,
+                "points": 0,
+                "clean_sheets": 0
+            },
+            "current": {
+                "matches_played": 0,
+                "wins": 0,
+                "draws": 0,
+                "losses": 0,
+                "goals_for": 0,
+                "goals_against": 0,
+                "points": 0,
+                "clean_sheets": 0
+            }
+        }
     }
 }

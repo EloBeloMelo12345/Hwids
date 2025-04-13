@@ -37,8 +37,8 @@
                         "home": "real",
                         "away": "barca",
                         "date": "2025-04-14 20:45",
-                        "played": true,
-                        "home_score": 3,
+                        "played": false,
+                        "home_score": 0,
                         "away_score": 0
                     },
                     {

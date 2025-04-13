@@ -4,22 +4,22 @@
             "1": {
                 "teams": {
                     "barca": {
-                        "points": 1,
-                        "matches_played": 1,
-                        "wins": 0,
+                        "points": 4,
+                        "matches_played": 2,
+                        "wins": 1,
                         "draws": 1,
                         "losses": 0,
-                        "goals_for": 3,
+                        "goals_for": 7,
                         "goals_against": 3
                     },
                     "real": {
                         "points": 1,
-                        "matches_played": 1,
+                        "matches_played": 2,
                         "wins": 0,
                         "draws": 1,
-                        "losses": 0,
+                        "losses": 1,
                         "goals_for": 3,
-                        "goals_against": 3
+                        "goals_against": 7
                     }
                 },
                 "standings": [],
@@ -37,9 +37,9 @@
                         "home": "barca",
                         "away": "real",
                         "date": "2025-04-14 16:45",
-                        "played": false,
-                        "home_score": null,
-                        "away_score": null
+                        "played": true,
+                        "home_score": 4,
+                        "away_score": 0
                     }
                 ],
                 "started": true,

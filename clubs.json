@@ -20,7 +20,16 @@
                     "yellow_cards": 0,
                     "red_cards": 0,
                     "mvps": 0,
-                    "all_time": {},
+                    "all_time": {
+                        "matches_played": 0,
+                        "goals": 0,
+                        "assists": 0,
+                        "saves": 0,
+                        "clean_sheets": 0,
+                        "yellow_cards": 0,
+                        "red_cards": 0,
+                        "mvps": 0
+                    },
                     "current": {
                         "matches_played": 0,
                         "goals": 0,

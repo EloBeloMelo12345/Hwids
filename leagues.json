@@ -64,15 +64,10 @@
                 "teams": {},
                 "standings": [],
                 "level": 2
-            },
-            "3": {
-                "teams": {},
-                "standings": [],
-                "level": 3
             }
         },
         "created_at": "2025-04-13 15:04:54.553574",
-        "total_divisions": 3,
+        "total_divisions": 2,
         "teams_per_division": 12,
         "promotion_spots": 2,
         "relegation_spots": 2

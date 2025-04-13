@@ -28,18 +28,18 @@
                     {
                         "home": "Barca",
                         "away": "real",
-                        "date": "2025-04-13 19:45",
-                        "played": true,
-                        "home_score": 3,
-                        "away_score": 0
+                        "date": "2025-04-13 18:45",
+                        "played": false,
+                        "home_score": null,
+                        "away_score": null
                     },
                     {
                         "home": "real",
                         "away": "Barca",
-                        "date": "2025-04-14 15:15",
-                        "played": true,
-                        "home_score": 0,
-                        "away_score": 2
+                        "date": "2025-04-14 21:00",
+                        "played": false,
+                        "home_score": null,
+                        "away_score": null
                     }
                 ],
                 "started": true,

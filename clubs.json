@@ -8,23 +8,23 @@
         "budget": 10000000,
         "stats": {
             "all_time": {
-                "matches_played": 26,
+                "matches_played": 27,
                 "wins": 8,
-                "draws": 4,
+                "draws": 5,
                 "losses": 14,
-                "goals_for": 62,
-                "goals_against": 86,
-                "points": 28,
+                "goals_for": 65,
+                "goals_against": 89,
+                "points": 29,
                 "clean_sheets": 6
             },
             "current": {
-                "matches_played": 0,
+                "matches_played": 1,
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "points": 0,
+                "goals_for": 3,
+                "goals_against": 3,
+                "points": 1,
                 "clean_sheets": 0
             }
         }
@@ -38,23 +38,23 @@
         "budget": 10000000,
         "stats": {
             "all_time": {
-                "matches_played": 22,
+                "matches_played": 23,
                 "wins": 14,
-                "draws": 0,
+                "draws": 1,
                 "losses": 8,
-                "goals_for": 74,
-                "goals_against": 50,
-                "points": 42,
+                "goals_for": 77,
+                "goals_against": 53,
+                "points": 43,
                 "clean_sheets": 6
             },
             "current": {
-                "matches_played": 0,
+                "matches_played": 1,
                 "wins": 0,
-                "draws": 0,
+                "draws": 1,
                 "losses": 0,
-                "goals_for": 0,
-                "goals_against": 0,
-                "points": 0,
+                "goals_for": 3,
+                "goals_against": 3,
+                "points": 1,
                 "clean_sheets": 0
             }
         }

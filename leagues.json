@@ -4,44 +4,27 @@
             "1": {
                 "teams": {
                     "Barca": {
-                        "points": 15,
-                        "matches_played": 5,
-                        "wins": 5,
+                        "points": 0,
+                        "matches_played": 0,
+                        "wins": 0,
                         "draws": 0,
                         "losses": 0,
-                        "goals_for": 13,
+                        "goals_for": 0,
                         "goals_against": 0
                     },
                     "real": {
                         "points": 0,
-                        "matches_played": 5,
+                        "matches_played": 0,
                         "wins": 0,
                         "draws": 0,
-                        "losses": 5,
+                        "losses": 0,
                         "goals_for": 0,
-                        "goals_against": 13
+                        "goals_against": 0
                     }
                 },
                 "standings": [],
                 "level": 1,
-                "fixtures": [
-                    {
-                        "home": "real",
-                        "away": "Barca",
-                        "date": "2025-04-13 14:30",
-                        "played": false,
-                        "home_score": null,
-                        "away_score": null
-                    },
-                    {
-                        "home": "Barca",
-                        "away": "real",
-                        "date": "2025-04-14 18:15",
-                        "played": true,
-                        "home_score": 3,
-                        "away_score": 0
-                    }
-                ],
+                "fixtures": [],
                 "started": true,
                 "start_date": "2025-04-13",
                 "end_date": "2025-04-20"

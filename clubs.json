@@ -8,23 +8,23 @@
         "budget": 10000000,
         "stats": {
             "all_time": {
-                "matches_played": 3,
+                "matches_played": 5,
                 "wins": 1,
-                "draws": 0,
+                "draws": 2,
                 "losses": 2,
-                "goals_for": 3,
-                "goals_against": 6,
-                "points": 3,
+                "goals_for": 9,
+                "goals_against": 12,
+                "points": 5,
                 "clean_sheets": 1
             },
             "current": {
-                "matches_played": 3,
+                "matches_played": 5,
                 "wins": 1,
-                "draws": 0,
+                "draws": 2,
                 "losses": 2,
-                "goals_for": 3,
-                "goals_against": 6,
-                "points": 3,
+                "goals_for": 9,
+                "goals_against": 12,
+                "points": 5,
                 "clean_sheets": 1
             }
         }

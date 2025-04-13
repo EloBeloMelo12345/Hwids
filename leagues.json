@@ -24,25 +24,8 @@
                 },
                 "standings": [],
                 "level": 1,
-                "fixtures": [
-                    {
-                        "home": "barca",
-                        "away": "real",
-                        "date": "2025-04-13 11:00",
-                        "played": false,
-                        "home_score": 0,
-                        "away_score": 0
-                    },
-                    {
-                        "home": "real",
-                        "away": "barca",
-                        "date": "2025-04-14 11:00",
-                        "played": false,
-                        "home_score": 0,
-                        "away_score": 0
-                    }
-                ],
-                "started": true,
+                "fixtures": [],
+                "started": false,
                 "start_date": "2025-04-13",
                 "end_date": "2025-07-06"
             }

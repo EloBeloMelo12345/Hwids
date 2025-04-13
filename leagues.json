@@ -5,44 +5,27 @@
                 "teams": {
                     "barca": {
                         "points": 0,
-                        "matches_played": 2,
+                        "matches_played": 0,
                         "wins": 0,
                         "draws": 0,
-                        "losses": 2,
-                        "goals_for": 4,
-                        "goals_against": 12
+                        "losses": 0,
+                        "goals_for": 0,
+                        "goals_against": 0
                     },
                     "real": {
-                        "points": 6,
-                        "matches_played": 2,
-                        "wins": 2,
+                        "points": 0,
+                        "matches_played": 0,
+                        "wins": 0,
                         "draws": 0,
                         "losses": 0,
-                        "goals_for": 12,
-                        "goals_against": 4
+                        "goals_for": 0,
+                        "goals_against": 0
                     }
                 },
                 "standings": [],
                 "level": 1,
-                "fixtures": [
-                    {
-                        "home": "barca",
-                        "away": "real",
-                        "date": "2025-04-13 11:00",
-                        "played": true,
-                        "home_score": 3,
-                        "away_score": 9
-                    },
-                    {
-                        "home": "real",
-                        "away": "barca",
-                        "date": "2025-04-14 11:00",
-                        "played": true,
-                        "home_score": 3,
-                        "away_score": 1
-                    }
-                ],
-                "started": true,
+                "fixtures": [],
+                "started": false,
                 "start_date": "2025-04-13",
                 "end_date": "2025-07-06"
             }

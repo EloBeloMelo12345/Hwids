@@ -21,8 +21,8 @@
                     "red_cards": 0,
                     "mvps": 0,
                     "all_time": {
-                        "matches_played": 1,
-                        "goals": 1,
+                        "matches_played": 2,
+                        "goals": 4,
                         "assists": 0,
                         "saves": 0,
                         "clean_sheets": 0,
@@ -31,8 +31,8 @@
                         "mvps": 0
                     },
                     "current": {
-                        "matches_played": 1,
-                        "goals": 1,
+                        "matches_played": 2,
+                        "goals": 4,
                         "assists": 0,
                         "saves": 0,
                         "clean_sheets": 0,
@@ -46,14 +46,14 @@
         "budget": 10000000,
         "stats": {
             "all_time": {
-                "matches_played": 15,
-                "wins": 15,
+                "matches_played": 16,
+                "wins": 16,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 39,
+                "goals_for": 42,
                 "goals_against": 0,
-                "points": 45,
-                "clean_sheets": 15,
+                "points": 48,
+                "clean_sheets": 16,
                 "league_wins": {
                     "Division 1": 0,
                     "Division 2": 0,
@@ -64,14 +64,14 @@
                 "current_division": null
             },
             "current": {
-                "matches_played": 1,
-                "wins": 1,
+                "matches_played": 2,
+                "wins": 2,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 1,
+                "goals_for": 4,
                 "goals_against": 0,
-                "points": 3,
-                "clean_sheets": 1
+                "points": 6,
+                "clean_sheets": 2
             }
         }
     },
@@ -84,12 +84,12 @@
         "budget": 10000000,
         "stats": {
             "all_time": {
-                "matches_played": 15,
+                "matches_played": 16,
                 "wins": 0,
                 "draws": 0,
-                "losses": 15,
+                "losses": 16,
                 "goals_for": 0,
-                "goals_against": 39,
+                "goals_against": 42,
                 "points": 0,
                 "clean_sheets": 0,
                 "league_wins": {
@@ -102,12 +102,12 @@
                 "current_division": null
             },
             "current": {
-                "matches_played": 1,
+                "matches_played": 2,
                 "wins": 0,
                 "draws": 0,
-                "losses": 1,
+                "losses": 2,
                 "goals_for": 0,
-                "goals_against": 1,
+                "goals_against": 4,
                 "points": 0,
                 "clean_sheets": 0
             }

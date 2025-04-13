@@ -13,22 +13,22 @@
                 "joined_at": "2025-04-13T12:52:08.252335",
                 "stats": {
                     "current": {
-                        "matches_played": 2,
-                        "goals": 6,
+                        "matches_played": 0,
+                        "goals": 0,
                         "assists": 0,
                         "saves": 0,
                         "clean_sheets": 0,
-                        "yellow_cards": 1,
+                        "yellow_cards": 0,
                         "red_cards": 0,
                         "mvps": 0
                     },
                     "all_time": {
-                        "matches_played": 2,
-                        "goals": 6,
+                        "matches_played": 4,
+                        "goals": 12,
                         "assists": 0,
                         "saves": 0,
                         "clean_sheets": 0,
-                        "yellow_cards": 1,
+                        "yellow_cards": 2,
                         "red_cards": 0,
                         "mvps": 0
                     }
@@ -38,24 +38,24 @@
         "budget": 10000000,
         "stats": {
             "all_time": {
-                "matches_played": 2,
-                "wins": 2,
+                "matches_played": 4,
+                "wins": 4,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 6,
+                "goals_for": 12,
                 "goals_against": 0,
-                "points": 6,
-                "clean_sheets": 2
+                "points": 12,
+                "clean_sheets": 4
             },
             "current": {
-                "matches_played": 2,
-                "wins": 2,
+                "matches_played": 0,
+                "wins": 0,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 6,
+                "goals_for": 0,
                 "goals_against": 0,
-                "points": 6,
-                "clean_sheets": 2
+                "points": 0,
+                "clean_sheets": 0
             }
         }
     },
@@ -68,22 +68,22 @@
         "budget": 10000000,
         "stats": {
             "all_time": {
-                "matches_played": 2,
+                "matches_played": 4,
                 "wins": 0,
                 "draws": 0,
-                "losses": 2,
+                "losses": 4,
                 "goals_for": 0,
-                "goals_against": 6,
+                "goals_against": 12,
                 "points": 0,
                 "clean_sheets": 0
             },
             "current": {
-                "matches_played": 2,
+                "matches_played": 0,
                 "wins": 0,
                 "draws": 0,
-                "losses": 2,
+                "losses": 0,
                 "goals_for": 0,
-                "goals_against": 6,
+                "goals_against": 0,
                 "points": 0,
                 "clean_sheets": 0
             }

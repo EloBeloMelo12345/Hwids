@@ -8,24 +8,24 @@
         "budget": 10000000,
         "stats": {
             "all_time": {
-                "matches_played": 11,
-                "wins": 3,
+                "matches_played": 12,
+                "wins": 4,
                 "draws": 4,
                 "losses": 4,
-                "goals_for": 21,
+                "goals_for": 24,
                 "goals_against": 24,
-                "points": 13,
-                "clean_sheets": 3
+                "points": 16,
+                "clean_sheets": 4
             },
             "current": {
-                "matches_played": 1,
-                "wins": 1,
+                "matches_played": 0,
+                "wins": 0,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 3,
+                "goals_for": 0,
                 "goals_against": 0,
-                "points": 3,
-                "clean_sheets": 1
+                "points": 0,
+                "clean_sheets": 0
             }
         }
     },
@@ -38,22 +38,22 @@
         "budget": 10000000,
         "stats": {
             "all_time": {
-                "matches_played": 7,
+                "matches_played": 8,
                 "wins": 4,
                 "draws": 0,
-                "losses": 3,
+                "losses": 4,
                 "goals_for": 12,
-                "goals_against": 9,
+                "goals_against": 12,
                 "points": 12,
                 "clean_sheets": 4
             },
             "current": {
-                "matches_played": 1,
+                "matches_played": 0,
                 "wins": 0,
                 "draws": 0,
-                "losses": 1,
+                "losses": 0,
                 "goals_for": 0,
-                "goals_against": 3,
+                "goals_against": 0,
                 "points": 0,
                 "clean_sheets": 0
             }

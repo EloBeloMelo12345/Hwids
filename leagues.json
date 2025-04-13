@@ -40,6 +40,14 @@
                         "played": false,
                         "home_score": null,
                         "away_score": null
+                    },
+                    {
+                        "home": "barca",
+                        "away": "barca",
+                        "date": "1999-11-11T09:09",
+                        "played": false,
+                        "home_score": 0,
+                        "away_score": 0
                     }
                 ],
                 "started": true,

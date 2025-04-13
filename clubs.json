@@ -26,14 +26,14 @@
         "budget": 10000000,
         "stats": {
             "all_time": {
-                "matches_played": 12,
-                "wins": 12,
+                "matches_played": 13,
+                "wins": 13,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 32,
+                "goals_for": 35,
                 "goals_against": 0,
-                "points": 36,
-                "clean_sheets": 12,
+                "points": 39,
+                "clean_sheets": 13,
                 "league_wins": {
                     "Division 1": 0,
                     "Division 2": 0,
@@ -44,14 +44,14 @@
                 "current_division": null
             },
             "current": {
-                "matches_played": 0,
-                "wins": 0,
+                "matches_played": 1,
+                "wins": 1,
                 "draws": 0,
                 "losses": 0,
-                "goals_for": 0,
+                "goals_for": 3,
                 "goals_against": 0,
-                "points": 0,
-                "clean_sheets": 0
+                "points": 3,
+                "clean_sheets": 1
             }
         }
     },
@@ -64,12 +64,12 @@
         "budget": 10000000,
         "stats": {
             "all_time": {
-                "matches_played": 12,
+                "matches_played": 13,
                 "wins": 0,
                 "draws": 0,
-                "losses": 12,
+                "losses": 13,
                 "goals_for": 0,
-                "goals_against": 32,
+                "goals_against": 35,
                 "points": 0,
                 "clean_sheets": 0,
                 "league_wins": {
@@ -82,12 +82,12 @@
                 "current_division": null
             },
             "current": {
-                "matches_played": 0,
+                "matches_played": 1,
                 "wins": 0,
                 "draws": 0,
-                "losses": 0,
+                "losses": 1,
                 "goals_for": 0,
-                "goals_against": 0,
+                "goals_against": 3,
                 "points": 0,
                 "clean_sheets": 0
             }

@@ -11,37 +11,11 @@
                         "losses": 1,
                         "goals_for": 3,
                         "goals_against": 4
-                    },
-                    "real": {
-                        "points": 3,
-                        "matches_played": 1,
-                        "wins": 1,
-                        "draws": 0,
-                        "losses": 0,
-                        "goals_for": 4,
-                        "goals_against": 3
                     }
                 },
                 "standings": [],
                 "level": 1,
-                "fixtures": [
-                    {
-                        "home": "barca",
-                        "away": "real",
-                        "date": "2025-04-13 11:00",
-                        "played": true,
-                        "home_score": 3,
-                        "away_score": 4
-                    },
-                    {
-                        "home": "real",
-                        "away": "barca",
-                        "date": "2025-04-14 11:00",
-                        "played": false,
-                        "home_score": 0,
-                        "away_score": 0
-                    }
-                ],
+                "fixtures": [],
                 "started": true,
                 "start_date": "2025-04-13",
                 "end_date": "2025-07-06"

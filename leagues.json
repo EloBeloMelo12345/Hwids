@@ -1,41 +1,4 @@
 {
-    "Laliga": {
-        "divisions": {
-            "1": {
-                "teams": {
-                    "barca": {
-                        "points": 0,
-                        "matches_played": 0,
-                        "wins": 0,
-                        "draws": 0,
-                        "losses": 0,
-                        "goals_for": 0,
-                        "goals_against": 0
-                    },
-                    "real": {
-                        "points": 0,
-                        "matches_played": 0,
-                        "wins": 0,
-                        "draws": 0,
-                        "losses": 0,
-                        "goals_for": 0,
-                        "goals_against": 0
-                    }
-                },
-                "standings": [],
-                "level": 1,
-                "fixtures": [],
-                "started": true,
-                "start_date": "2025-04-13",
-                "end_date": "2025-07-06"
-            }
-        },
-        "created_at": "2025-04-13 19:10:40.351346",
-        "total_divisions": 1,
-        "teams_per_division": 12,
-        "promotion_spots": 2,
-        "relegation_spots": 2
-    },
     "backa": {
         "divisions": {
             "1": {
